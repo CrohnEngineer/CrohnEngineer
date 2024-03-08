@@ -4,9 +4,13 @@
 - 💞️ I’m looking to collaborate on funny projects on signal processing
 - 📫 [Linkedin profile](https://www.linkedin.com/in/edoardo-daniele-cannas-9a7355146/) | edoardodaniele.cannas@polimi.it. 
 
-<!---![CrohnEngineer's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CrohnEngineer&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&theme=gotham)--->
-![](https://github.com/CrohnEngineer/my-github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
-![](https://github.com/CrohnEngineer/my-github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
+<a href="https://github.com/jstrieb/github-stats">
+<img src="https://github.com/CrohnEngineer/my-github-stats/blob/master/generated/overview.svg" alt="CrohnEngineer's General stats" />
+</a>
+
+<a href="https://github.com/jstrieb/github-stats">
+<img src="https://github.com/CrohnEngineer/my-github-stats/blob/master/generated/languages.svg" alt="CrohnEngineer's Language stats" />
+</a>
 
 <!---
 CrohnEngineer/CrohnEngineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
